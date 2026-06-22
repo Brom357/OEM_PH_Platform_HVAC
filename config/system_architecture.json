@@ -1,6 +1,6 @@
 {
   "compressor_type": "heat_pump_bidirectional",
-  "nominal_power_kw": 1.5,
+  "nominal_power_kw": 2.0,
   "coefficient_of_performance": 3.0,
   "source": "environment"
 }
