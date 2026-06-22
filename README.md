@@ -1,8 +1,8 @@
 # Projekt: OEM PH-Plattform – HLK-System (HVACMASTER)
 
 ## 1. Projektorganisation
-* **Configuration Manager (KM):** Max Mustermann
-* **Change Control Board (CCB):** Freigabe erfolgt durch den OEM-Projektleiter und HVACMASTER-Chefingenieur.
+* **Configuration Manager (KM):** Nico Lorenz
+* **Change Control Board (CCB):** Freigabe erfolgt durch den OEM-Projektleiter ( Ansgar Meroth ) und HVACMASTER-Chefingenieur ( Jannik Wüllenweber ).
 
 ## 2. Ziel-Varianten & Zeitplan
 1. **BE1 (Full Electric Limousine):** SOP Herbst 2027 -> Branch: `variant/BE1-limousine`
