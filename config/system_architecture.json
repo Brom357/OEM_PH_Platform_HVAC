@@ -1,0 +1,6 @@
+{
+  "compressor_type": "classical_shaft_driven",
+  "mechanical_load_kw": 5.0,
+  "additional_heater_kw": 4.0,
+  "storage_evaporator": true
+}
