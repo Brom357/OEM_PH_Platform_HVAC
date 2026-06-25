@@ -1,0 +1,1 @@
+// Bugfix #BUG-BE1-08: Increased compressor startup timeout to 500ms
