@@ -12,6 +12,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | V0.1 | 10.06.2026 | JW    | Erstausstellung (Entwurf) | In Prüfung |
 | V1.0 | 24.06.2026 | JW    | Freigabe nach Concept Freeze Audit | Freigegeben |
+| V1.1 | 15.10.2027 | JW    | Anpassung der CI-Verweise für BE1 Serienfreigabe  | Freigegeben |
 
 ---
 
